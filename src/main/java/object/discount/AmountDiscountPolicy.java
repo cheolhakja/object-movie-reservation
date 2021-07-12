@@ -1,4 +1,4 @@
-package discount;
+package object.discount;
 
 public class AmountDiscountPolicy extends DiscountPolicy{
     private Money discountAmount;

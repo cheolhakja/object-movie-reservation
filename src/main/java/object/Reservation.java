@@ -1,3 +1,5 @@
+package object;
+
 public class Reservation {
     private Customer customer;
     private Screening screening;

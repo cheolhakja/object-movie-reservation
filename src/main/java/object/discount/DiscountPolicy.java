@@ -1,4 +1,4 @@
-package discount;
+package object.discount;
 
 import java.util.ArrayList;
 import java.util.Arrays;

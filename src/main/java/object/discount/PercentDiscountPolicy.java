@@ -1,4 +1,4 @@
-package discount;
+package object.discount;
 
 public class PercentDiscountPolicy extends DiscountPolicy{
     private double percent;

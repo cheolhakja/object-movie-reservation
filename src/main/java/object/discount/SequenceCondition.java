@@ -1,4 +1,4 @@
-package discount;
+package object.discount;
 
 public class SequenceCondition implements DiscountCondition {
     private int sequence;

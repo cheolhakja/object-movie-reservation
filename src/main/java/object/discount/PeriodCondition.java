@@ -1,4 +1,4 @@
-package discount;
+package object.discount;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;
