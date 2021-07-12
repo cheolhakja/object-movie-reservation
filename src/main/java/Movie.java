@@ -1,4 +1,5 @@
-import java.math.BigDecimal;
+import discount.DiscountPolicy;
+
 import java.time.Duration;
 
 public class Movie {
