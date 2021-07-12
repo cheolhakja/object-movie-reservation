@@ -1,5 +1,7 @@
 package object.discount;
 
+import object.Screening;
+
 import java.time.DayOfWeek;
 import java.time.LocalTime;
 

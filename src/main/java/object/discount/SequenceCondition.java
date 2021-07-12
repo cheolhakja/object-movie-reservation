@@ -1,5 +1,7 @@
 package object.discount;
 
+import object.Screening;
+
 public class SequenceCondition implements DiscountCondition {
     private int sequence;
 

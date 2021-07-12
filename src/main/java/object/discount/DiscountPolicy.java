@@ -1,5 +1,8 @@
 package object.discount;
 
+import object.Money;
+import object.Screening;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

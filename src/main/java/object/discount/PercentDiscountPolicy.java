@@ -1,5 +1,8 @@
 package object.discount;
 
+import object.Money;
+import object.Screening;
+
 public class PercentDiscountPolicy extends DiscountPolicy{
     private double percent;
 
