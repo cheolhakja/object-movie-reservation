@@ -1,9 +1,10 @@
-package object.discount;
+package object.discountpolicy;
 
 import object.Money;
 import object.Screening;
+import object.discountcondition.DiscountCondition;
 
-public class PercentDiscountPolicy extends DiscountPolicy{
+public class PercentDiscountPolicy extends DiscountPolicy {
     private double percent;
 
     public PercentDiscountPolicy(double percent, DiscountCondition... conditions) {

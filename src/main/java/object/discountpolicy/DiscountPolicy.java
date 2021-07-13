@@ -1,7 +1,8 @@
-package object.discount;
+package object.discountpolicy;
 
 import object.Money;
 import object.Screening;
+import object.discountcondition.DiscountCondition;
 
 import java.util.ArrayList;
 import java.util.Arrays;

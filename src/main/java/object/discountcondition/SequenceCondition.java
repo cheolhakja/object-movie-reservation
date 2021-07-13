@@ -1,4 +1,4 @@
-package object.discount;
+package object.discountcondition;
 
 import object.Screening;
 

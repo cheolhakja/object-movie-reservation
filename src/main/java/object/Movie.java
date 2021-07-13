@@ -1,6 +1,6 @@
 package object;
 
-import object.discount.DiscountPolicy;
+import object.discountpolicy.DiscountPolicy;
 
 import java.time.Duration;
 
